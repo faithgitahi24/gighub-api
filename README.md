@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GigHub Nairobi Freelance Gigs API
 
 Admission Number: C027-01-0889/2024
@@ -34,3 +35,7 @@ uv run uvicorn main:app --reload
 ```
 http://127.0.0.1:8000/docs
 ```
+=======
+# gighub-api
+This is a platform freelancers connect with customers
+>>>>>>> da978eb5eca69c613c1b43d426448c694bae4b06
